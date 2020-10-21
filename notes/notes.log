@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.11.18)  21 OCT 2020 22:54
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.11.18)  21 OCT 2020 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,52 +929,75 @@ File: MscaleNet2.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2] [3] [4] [5]
-Overfull \hbox (30.28864pt too wide) in paragraph at lines 235--236
+[2] [3] [4] [5] [6]
+Overfull \hbox (30.28864pt too wide) in paragraph at lines 237--238
 []\TU/SimSun(0)/bx/n/12 如 果 我 们 不 知 道 精 确 解，|  而 是 通 过 差 分 方 法 或 者 其 它 方 法 生 成 
 的 参 考 解。|  这 里 的 \TU/lmr/bx/n/12 u_test_true
  []
 
-[6] [7]
-Overfull \hbox (19.99695pt too wide) in paragraph at lines 308--309
+[7]
+Overfull \hbox (19.99695pt too wide) in paragraph at lines 310--311
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (1.99677pt too wide) in paragraph at lines 309--310
+Overfull \hbox (1.99677pt too wide) in paragraph at lines 311--312
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][] 
  []
 
 
-Overfull \hbox (1.99677pt too wide) in paragraph at lines 311--313
+Overfull \hbox (1.99677pt too wide) in paragraph at lines 313--315
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][] 
  []
 
-[8]
-Overfull \hbox (1.99677pt too wide) in paragraph at lines 372--373
+[8] [9]
+Overfull \hbox (1.99677pt too wide) in paragraph at lines 374--375
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[9] [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
+[10]
+Overfull \hbox (28.1424pt too wide) in paragraph at lines 438--439
+[]\TU/SimSun(0)/m/n/12 具 体 参 数 如 上，|  分 别 用 规 模 为 \TU/lmr/m/n/12 (180,180,180) 
+\TU/SimSun(0)/m/n/12 的 普 通 全 连 接 网 络 \TU/lmr/m/n/12 (normal)\TU/SimSun(0)/m/n/1
+2 ，|  系 数 为 \TU/lmr/m/n/12 (1,2,4,8,16,32)
+ []
+
+File: s0.png Graphic file (type bmp)
+<s0.png>
+File: s500.png Graphic file (type bmp)
+<s500.png>
+File: s1000.png Graphic file (type bmp)
+<s1000.png>
+File: s5000.png Graphic file (type bmp)
+<s5000.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: error.png Graphic file (type bmp)
+<error.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 466.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 466.
  (./notes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 434.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 434.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 466.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 466.
 Package rerunfilecheck Info: File `notes.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 434.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 466.
  ) 
 Here is how much of TeX's memory you used:
- 27588 strings out of 492922
- 540172 string characters out of 6136750
- 850613 words of memory out of 5000000
- 31371 multiletter control sequences out of 15000+600000
- 540901 words of font info for 84 fonts, out of 8000000 for 9000
+ 27627 strings out of 492922
+ 541182 string characters out of 6136750
+ 852613 words of memory out of 5000000
+ 31404 multiletter control sequences out of 15000+600000
+ 540909 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,10n,68p,382b,1742s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,68p,382b,1858s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on notes.pdf (11 pages).
+Output written on notes.pdf (12 pages).
